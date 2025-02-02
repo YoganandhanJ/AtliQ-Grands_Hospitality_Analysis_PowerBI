@@ -1,4 +1,4 @@
-# Atliq_Hospitality_Analysis_PowerBI
+# Atliq_Grands_Hospitality_Analysis_PowerBI
 
 # Problem Statement
 
@@ -27,6 +27,17 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
 - DURN (Daily Utilized Room Nights)
 - Realisation %
 - occupancy and cancellation %
+
+# Some Important Insights from Dashboard
+
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- Elite type rooms has the most booking and as well higher cancellation rate
+- AtliQ Exotica is the best performer among all properties with 316M revenue, average rating is 3.62, occupancy % is 57.20% and cancellation rate is 24.39%.
+- Week 24 recorded the highest revenue among all, which is 139.6 Million
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+
+
+
 
 
 
