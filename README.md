@@ -1,4 +1,4 @@
-# Atliq-Grands_Hospitality_Analysis_PowerBI
+# Atliq_Hospitality_Analysis_PowerBI
 
 # Problem Statement
 
